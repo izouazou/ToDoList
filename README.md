@@ -1,6 +1,6 @@
 # To-Do List Web Application: Setup Guide
 
-![GitHub Logo](https://github.com/izouazou/ToDoList/Architecture.PNG)
+![GitHub Logo](https://github.com/izouazou/ToDoList/blob/main/Architecture.PNG)
 
 ## Prerequisites
 Before setting up the To-Do List Web Application, ensure that you have the following software installed on your system:
