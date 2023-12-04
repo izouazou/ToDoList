@@ -44,7 +44,7 @@ Install required packages and tools: we use rav. Open rav.yaml to see the variou
 With the configuration and installation steps completed, use the following command to run the To-Do List Web Application:  
 
     
-    
+    rav run migrate
     rav run build
     rav run docker-dev
     
