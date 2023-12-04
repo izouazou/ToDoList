@@ -17,8 +17,9 @@ Before setting up the To-Do List Web Application, ensure that you have the follo
 **Clone the To-Do List repository from GitHub::**  
 
     
-    git clone https://github.com/zouazo/to-do-list/
-    cd to-do-list
+    git clone https://github.com/izouazou/ToDoList/
+    cd ToDoList
+    git checkout feature1
     
 ## Environment Setup
 
@@ -40,7 +41,7 @@ Before setting up the To-Do List Web Application, ensure that you have the follo
 
 With the configuration and installation steps completed, use the following command to run the To-Do List Web Application:  
 
-    
+    rav run migrate 
     rav run server
     
 
