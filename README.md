@@ -39,7 +39,7 @@ Before setting up the To-Do List Web Application, ensure that you have the follo
 ## Running the Application
 
 
-With the configuration and installation steps completed, use the following command to run the To-Do List Web Application:  
+With the configuration and installation steps completed, use the following commands to run the To-Do List Web Application:  
 
     rav run migrate 
     rav run server
