@@ -1,0 +1,8 @@
+scripts:
+  server: cd backend && python manage.py runserver 
+  migrate: cd backend && python manage.py migrate
+  npm: cd frontend && npm start
+  build: cd frontend && npm run build
+  installs:
+    - cd backend && python -m pip install -r requirements.txt && cd ../frontend && npm install && npm run build
+
