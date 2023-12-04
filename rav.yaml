@@ -6,3 +6,4 @@ scripts:
     - cd backend && python -m pip install -r requirements.txt && cd ../frontend && npm install && npm run build
   build: docker-compose build
   docker-dev: docker-compose up
+  build-react: docker-compose run --rm frontend npm run build
