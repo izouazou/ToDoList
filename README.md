@@ -41,7 +41,7 @@ Install required packages and tools: we use rav. Open rav.yaml to see the variou
 ## Running the Application
 
 
-With the configuration and installation steps completed, use the following command to run the To-Do List Web Application:  
+With the configuration and installation steps completed, use the following commands to run the To-Do List Web Application:  
 
     
     rav run migrate
