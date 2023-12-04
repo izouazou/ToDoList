@@ -20,9 +20,8 @@ Create a directory named "dev" and navigate to it:
 Clone the To-Do List repository from GitHub:
 
     
-    git clone https://github.com/zouazo/to-do-list/
-    cd to-do-list
-    git checkout feature-a
+    git clone https://github.com/izouazou/ToDoList/
+    cd ToDoList
     
 ## Environment Setup
 
