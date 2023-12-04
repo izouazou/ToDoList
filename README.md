@@ -17,8 +17,9 @@ Before setting up the To-Do List Web Application, ensure that you have the follo
 **Clone the To-Do List repository from GitHub::**  
 
     
-    git clone https://github.com/zouazo/to-do-list/
-    cd to-do-list
+    git clone https://github.com/izouazou/ToDoList/
+    cd ToDoList
+    git checkout feature1
     
 ## Environment Setup
 
