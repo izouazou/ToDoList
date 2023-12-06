@@ -52,8 +52,9 @@ With the configuration and installation steps completed, use the following comma
 Simply enter http://127.0.0.1/ in your browser to interact with the application.
 
 
+## License
 
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/izouazou/ToDoList/blob/main/LICENSE) file for details.
 
 
 
